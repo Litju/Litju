@@ -1,41 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0A0A0B,35:18181B,50:F3F4F6,65:18181B,100:0A0A0B&text=JULIO%20RODRIGUEZ&fontColor=F8FAFC&fontSize=40&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Scientific%20Software&descAlignY=63&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B0F14,35:1A212B,65:23303D,100:0B0F14&text=JULIO%20RODRIGUEZ&fontColor=E7EDF2&fontSize=40&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Scientific%20Software&descAlignY=63&descSize=17&animation=fadeIn" />
 
 <br/>
 
 <a href="https://github.com/Litju">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=1000&color=D4D4D8&center=true&vCenter=true&width=980&lines=I+build+AI+systems+that+operate+inside+real+software.;Agentic+workflows+with+deterministic+cores.;Scientific+computing.+Simulation.+Reliability.;From+measurement+to+models+to+production+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=1000&color=A9B4C2&center=true&vCenter=true&width=980&lines=I+build+AI+systems+that+operate+inside+real+software.;Agentic+workflows+with+deterministic+cores.;Scientific+computing.+Simulation.+Reliability.;From+measurement+to+models+to+production+systems." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F4F4F5" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=F4F4F5" />
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=F4F4F5" />
-<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=F4F4F5" />
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=F4F4F5" />
-<img src="https://img.shields.io/badge/MuJoCo-111111?style=flat-square&logoColor=F4F4F5" />
-<img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square&logoColor=F4F4F5" />
+<img src="https://img.shields.io/badge/Python-0F141A?style=flat-square&logo=python&logoColor=E7EDF2" />
+<img src="https://img.shields.io/badge/TypeScript-0F141A?style=flat-square&logo=typescript&logoColor=E7EDF2" />
+<img src="https://img.shields.io/badge/Next.js-0F141A?style=flat-square&logo=nextdotjs&logoColor=E7EDF2" />
+<img src="https://img.shields.io/badge/FastAPI-0F141A?style=flat-square&logo=fastapi&logoColor=E7EDF2" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F141A?style=flat-square&logo=postgresql&logoColor=E7EDF2" />
+<img src="https://img.shields.io/badge/MuJoCo-0F141A?style=flat-square&logoColor=E7EDF2" />
+<img src="https://img.shields.io/badge/LangGraph-0F141A?style=flat-square&logoColor=E7EDF2" />
 
 </div>
 
 ---
-
-<div align="center">
-
-```text
-[ core ] ── monochrome ── graphite ── silver ── amethyst ── ion blue ── electric cyan
-```
-
-</div>
 
 > **AI is a component. The product is the system around it.**
 > I build agentic products, scientific software, simulation systems, and deterministic layers around AI.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:111111,50:27272A,100:3F3F46&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:1A212B,50:2F8F83,100:7CC9F5&section=header" />
 
 ## Selected systems
 
@@ -43,7 +35,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ◼ [Vibe Product Pal](https://github.com/Litju/Vibe-Product-Pal)
+### [Vibe Product Pal](https://github.com/Litju/Vibe-Product-Pal)
 
 Agentic product-engineering platform for structured planning, system architecture, UX/UI work, prototype implementation, testing, and export.
 
@@ -53,7 +45,7 @@ Agentic product-engineering platform for structured planning, system architectur
 </td>
 <td width="50%" valign="top">
 
-### ◻ [WorkoutPal](https://github.com/Litju/WorkoutPal-Public)
+### [WorkoutPal](https://github.com/Litju/WorkoutPal-Public)
 
 Science-driven training software combining agent orchestration, structured domain models, PostgreSQL persistence, and numerical/scientific processors.
 
@@ -66,7 +58,7 @@ Science-driven training software combining agent orchestration, structured domai
 <tr>
 <td width="50%" valign="top">
 
-### ▣ [SportsAgentsLab](https://github.com/Litju/SportsAgentsLab-Public)
+### [SportsAgentsLab](https://github.com/Litju/SportsAgentsLab-Public)
 
 Multi-agent sports-science platform for measurement, research, monitoring, and practitioner-facing workflows.
 
@@ -76,7 +68,7 @@ Multi-agent sports-science platform for measurement, research, monitoring, and p
 </td>
 <td width="50%" valign="top">
 
-### ▤ [SecScanMonitor](https://github.com/Litju/Sec-Scan-Monitor)
+### [SecScanMonitor](https://github.com/Litju/Sec-Scan-Monitor)
 
 Evidence-first cybersecurity platform for AI agents, workflows, and agent-built software.
 
@@ -89,7 +81,7 @@ Evidence-first cybersecurity platform for AI agents, workflows, and agent-built 
 <tr>
 <td width="50%" valign="top">
 
-### ◫ [Loaded CMJ System Identification](https://github.com/Litju/loaded-cmj-system-identification)
+### [Loaded CMJ System Identification](https://github.com/Litju/loaded-cmj-system-identification)
 
 Reproducible biomechanics research software for mechanics-first identification of a loaded countermovement jump in MuJoCo.
 
@@ -99,7 +91,7 @@ Reproducible biomechanics research software for mechanics-first identification o
 </td>
 <td width="50%" valign="top">
 
-### ◬ [Loaded CMJ Control](https://github.com/Litju/loaded-cmj-control)
+### [Loaded CMJ Control](https://github.com/Litju/loaded-cmj-control)
 
 Deterministic biomechanical control research over a high-frequency MuJoCo plant with bounded anatomical actions.
 
@@ -112,7 +104,7 @@ Deterministic biomechanical control research over a high-frequency MuJoCo plant 
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:27272A,50:52525B,100:8B5CF6&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:23303D,50:2F8F83,100:7A6FF0&section=header" />
 
 ## Areas of work
 
@@ -120,27 +112,21 @@ Deterministic biomechanical control research over a high-frequency MuJoCo plant 
 <tr>
 <td width="33%" valign="top">
 
-### Amethyst layer
-
-**Agentic systems**
+### Agentic systems
 
 LLM applications with typed tools, explicit state, bounded authority, evaluation, retrieval, and controlled action surfaces.
 
 </td>
 <td width="33%" valign="top">
 
-### Violet layer
-
-**Scientific software**
+### Scientific software
 
 Measurement, biomechanics, signal processing, simulation, optimization, and deterministic numerical methods.
 
 </td>
 <td width="33%" valign="top">
 
-### Ion layer
-
-**Product engineering**
+### Product engineering
 
 Full-stack systems with backend contracts, auth, persistence, CI/CD, deployment, and operational discipline.
 
@@ -150,7 +136,7 @@ Full-stack systems with backend contracts, auth, persistence, CI/CD, deployment,
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:8B5CF6,50:6366F1,100:22D3EE&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:2F8F83,50:7CC9F5,100:7A6FF0&section=header" />
 
 ## Engineering stack
 
@@ -160,17 +146,17 @@ Full-stack systems with backend contracts, auth, persistence, CI/CD, deployment,
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/agents-111111?style=flat-square&logoColor=E4E4E7&labelColor=111111&color=8B5CF6" />
-<img src="https://img.shields.io/badge/retrieval-111111?style=flat-square&logoColor=E4E4E7&labelColor=111111&color=A78BFA" />
-<img src="https://img.shields.io/badge/simulation-111111?style=flat-square&logoColor=E4E4E7&labelColor=111111&color=6366F1" />
-<img src="https://img.shields.io/badge/measurement-111111?style=flat-square&logoColor=E4E4E7&labelColor=111111&color=38BDF8" />
-<img src="https://img.shields.io/badge/reliability-111111?style=flat-square&logoColor=E4E4E7&labelColor=111111&color=22D3EE" />
+<img src="https://img.shields.io/badge/agents-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=2F8F83" />
+<img src="https://img.shields.io/badge/retrieval-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=4AA7A0" />
+<img src="https://img.shields.io/badge/simulation-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=5AB7D8" />
+<img src="https://img.shields.io/badge/measurement-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=7CC9F5" />
+<img src="https://img.shields.io/badge/reliability-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=7A6FF0" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:6366F1,50:38BDF8,100:E0F2FE&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:2F8F83,50:7CC9F5,100:E7EDF2&section=header" />
 
 ## Philosophy
 
@@ -203,13 +189,13 @@ Now I apply that same mindset to AI engineering, security, simulation, scientifi
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:38BDF8,50:22D3EE,100:E0F2FE&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:1A212B,50:2F8F83,100:7CC9F5&section=header" />
 
 ## Telemetry
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Litju&bg_color=0B0B0C&color=D4D4D8&line=F4F4F5&point=A78BFA&area=true&area_color=0F172A&hide_border=true&title_color=E4E4E7" alt="Julio Rodriguez's Contribution Graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Litju&bg_color=0B0F14&color=A9B4C2&line=E7EDF2&point=2F8F83&area=true&area_color=1A212B&hide_border=true&title_color=7CC9F5" alt="Julio Rodriguez's Contribution Graph" />
 
 </div>
 
@@ -219,12 +205,12 @@ Now I apply that same mindset to AI engineering, security, simulation, scientifi
 
 <div align="center">
 
-### from dark core to electric edge
+### midnight lab
 
-<sub>monochrome base · restrained progression · scientific energy · less AI theater · more working systems</sub>
+<sub>obsidian · graphite · bone · mineral teal · electric ice · rare amethyst</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0A0A0B,25:18181B,50:8B5CF6,75:38BDF8,100:22D3EE" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B0F14,35:1A212B,60:2F8F83,85:7CC9F5,100:7A6FF0" />
 
 </div>
