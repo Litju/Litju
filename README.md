@@ -1,216 +1,262 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Julio Rodriguez — AI Engineer" width="100%" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B0F14,35:1A212B,65:23303D,100:0B0F14&text=JULIO%20RODRIGUEZ&fontColor=E7EDF2&fontSize=40&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Scientific%20Software&descAlignY=63&descSize=17&animation=fadeIn" />
+<p align="center">
+  <strong>AI Engineer building agentic products, scientific software, and production systems.</strong>
+  <br/>
+  I design AI with useful agency, explicit authority boundaries, deterministic computation where it matters, and quality that can be tested.
+</p>
 
-<br/>
-
-<a href="https://github.com/Litju">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=1000&color=A9B4C2&center=true&vCenter=true&width=980&lines=I+build+AI+systems+that+operate+inside+real+software.;Agentic+workflows+with+deterministic+cores.;Scientific+computing.+Simulation.+Reliability.;From+measurement+to+models+to+production+systems." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-0F141A?style=flat-square&logo=python&logoColor=E7EDF2" />
-<img src="https://img.shields.io/badge/TypeScript-0F141A?style=flat-square&logo=typescript&logoColor=E7EDF2" />
-<img src="https://img.shields.io/badge/Next.js-0F141A?style=flat-square&logo=nextdotjs&logoColor=E7EDF2" />
-<img src="https://img.shields.io/badge/FastAPI-0F141A?style=flat-square&logo=fastapi&logoColor=E7EDF2" />
-<img src="https://img.shields.io/badge/PostgreSQL-0F141A?style=flat-square&logo=postgresql&logoColor=E7EDF2" />
-<img src="https://img.shields.io/badge/MuJoCo-0F141A?style=flat-square&logoColor=E7EDF2" />
-<img src="https://img.shields.io/badge/LangGraph-0F141A?style=flat-square&logoColor=E7EDF2" />
-
-</div>
+<p align="center">
+  <code>Python</code> ·
+  <code>TypeScript</code> ·
+  <code>LangGraph</code> ·
+  <code>FastAPI</code> ·
+  <code>Next.js</code> ·
+  <code>PostgreSQL</code> ·
+  <code>Docker</code> ·
+  <code>MuJoCo</code>
+</p>
 
 ---
 
-> **AI is a component. The product is the system around it.**
-> I build agentic products, scientific software, simulation systems, and deterministic layers around AI.
+## System topology
 
-<br/>
+```mermaid
+flowchart TB
+    JR(("JULIO RODRIGUEZ<br/>AI ENGINEER"))
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:1A212B,50:2F8F83,100:7CC9F5&section=header" />
+    AG["Agentic Systems"]
+    PE["Product Engineering"]
+    SC["Scientific Computing"]
+    RS["Reliability & Security"]
+    SM["Simulation & Measurement"]
 
-## Selected systems
+    VPP["Vibe Product Pal"]
+    SHOP["ShoppingPal"]
+    WP["WorkoutPal"]
+    SEC["SecScanMonitor"]
+    CMJ["Loaded CMJ<br/>System Identification"]
+    SAL["SportsAgentsLab"]
 
-<table>
-<tr>
-<td width="50%" valign="top">
+    JR --- AG
+    JR --- PE
+    JR --- SC
+    JR --- RS
+    JR --- SM
 
-### [Vibe Product Pal](https://github.com/Litju/Vibe-Product-Pal)
+    AG --- VPP
+    AG --- SHOP
+    AG --- WP
+    AG --- SAL
 
-Agentic product-engineering platform for structured planning, system architecture, UX/UI work, prototype implementation, testing, and export.
+    PE --- VPP
+    PE --- SHOP
+    PE --- WP
 
-**Stack**
-`Next.js` `React` `TypeScript` `Electron` `Neon` `Better Auth` `AI SDK`
+    SC --- WP
+    SC --- CMJ
+    SC --- SAL
 
-</td>
-<td width="50%" valign="top">
+    RS --- VPP
+    RS --- SHOP
+    RS --- SEC
 
-### [WorkoutPal](https://github.com/Litju/WorkoutPal-Public)
+    SM --- WP
+    SM --- CMJ
+    SM --- SAL
 
-Science-driven training software combining agent orchestration, structured domain models, PostgreSQL persistence, and numerical/scientific processors.
+    classDef core fill:#E8EEF2,color:#090D12,stroke:#72B7D4,stroke-width:3px;
+    classDef domain fill:#18222C,color:#E8EEF2,stroke:#3B8E87,stroke-width:1.5px;
+    classDef project fill:#0D131A,color:#E8EEF2,stroke:#647382,stroke-width:1.25px;
 
-**Stack**
-`TypeScript` `Python` `Next.js` `PostgreSQL` `scientific computing`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [SportsAgentsLab](https://github.com/Litju/SportsAgentsLab-Public)
-
-Multi-agent sports-science platform for measurement, research, monitoring, and practitioner-facing workflows.
-
-**Focus**
-`agent boundaries` `measurement` `provenance` `scientific authority`
-
-</td>
-<td width="50%" valign="top">
-
-### [SecScanMonitor](https://github.com/Litju/Sec-Scan-Monitor)
-
-Evidence-first cybersecurity platform for AI agents, workflows, and agent-built software.
-
-**Stack**
-`Python` `FastAPI` `OPA` `PostgreSQL` `Temporal` `Docker`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Loaded CMJ System Identification](https://github.com/Litju/loaded-cmj-system-identification)
-
-Reproducible biomechanics research software for mechanics-first identification of a loaded countermovement jump in MuJoCo.
-
-**Focus**
-`simulation` `optimization` `measurement` `validation` `reproducibility`
-
-</td>
-<td width="50%" valign="top">
-
-### [Loaded CMJ Control](https://github.com/Litju/loaded-cmj-control)
-
-Deterministic biomechanical control research over a high-frequency MuJoCo plant with bounded anatomical actions.
-
-**Focus**
-`control` `simulation` `real-time state` `physical constraints`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:23303D,50:2F8F83,100:7A6FF0&section=header" />
-
-## Areas of work
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Agentic systems
-
-LLM applications with typed tools, explicit state, bounded authority, evaluation, retrieval, and controlled action surfaces.
-
-</td>
-<td width="33%" valign="top">
-
-### Scientific software
-
-Measurement, biomechanics, signal processing, simulation, optimization, and deterministic numerical methods.
-
-</td>
-<td width="33%" valign="top">
-
-### Product engineering
-
-Full-stack systems with backend contracts, auth, persistence, CI/CD, deployment, and operational discipline.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:2F8F83,50:7CC9F5,100:7A6FF0&section=header" />
-
-## Engineering stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,fastapi,postgres,docker,git,githubactions,linux,pytorch,sklearn&theme=dark&perline=7" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/agents-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=2F8F83" />
-<img src="https://img.shields.io/badge/retrieval-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=4AA7A0" />
-<img src="https://img.shields.io/badge/simulation-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=5AB7D8" />
-<img src="https://img.shields.io/badge/measurement-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=7CC9F5" />
-<img src="https://img.shields.io/badge/reliability-11161D?style=flat-square&logoColor=E7EDF2&labelColor=11161D&color=7A6FF0" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:2F8F83,50:7CC9F5,100:E7EDF2&section=header" />
-
-## Philosophy
-
-```python
-def ship(system):
-    assert system.has_contracts
-    assert system.has_tests
-    assert system.has_observability
-    assert system.has_failure_boundaries
-    assert system.has_provenance
-
-    if system.uses_ai:
-        assert system.ai_authority_is_bounded
-        assert system.deterministic_core_is_preserved
-        assert system.outputs_are_evaluable
-
-    return "ship it"
+    class JR core;
+    class AG,PE,SC,RS,SM domain;
+    class VPP,SHOP,WP,SEC,CMJ,SAL project;
 ```
 
-My background started in **strength & conditioning and performance analysis**.
-That is probably why I care so much about:
-
-* measurement definitions
-* uncertainty
-* reproducibility
-* provenance
-* the difference between plausible and defensible
-
-Now I apply that same mindset to AI engineering, security, simulation, scientific computing, and production software.
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:1A212B,50:2F8F83,100:7CC9F5&section=header" />
-
-## Telemetry
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Litju&bg_color=0B0F14&color=A9B4C2&line=E7EDF2&point=2F8F83&area=true&area_color=1A212B&hide_border=true&title_color=7CC9F5" alt="Julio Rodriguez's Contribution Graph" />
-
-</div>
-
-> I intentionally keep telemetry minimal here. External stat-card services often fail to render cleanly on GitHub profiles.
+<p align="center">
+  <sub>Six flagship systems. Different domains. One engineering thesis: AI should increase capability without erasing software, scientific, or operational authority.</sub>
+</p>
 
 ---
 
-<div align="center">
+## Six flagship systems
 
-### midnight lab
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>obsidian · graphite · bone · mineral teal · electric ice · rare amethyst</sub>
+### 01 · [Vibe Product Pal](https://github.com/Litju/Vibe-Product-Pal)
 
-<br/><br/>
+**Agentic product-engineering platform**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B0F14,35:1A212B,60:2F8F83,85:7CC9F5,100:7A6FF0" />
+From product brief → architecture → UX/UI → prototype → testing → export, with proposal-first agent actions and explicit user approval.
 
-</div>
+**Engineering signal**<br />
+`bounded agent authority` · `web/desktop parity` · `sandboxing` · `typed state`
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · [ShoppingPal](https://github.com/Litju/ShoppingPal)
+
+**Agent-assisted commerce platform**
+
+A real storefront where a typed shopping agent can discover, compare, and propose cart actions while Medusa remains canonical authority for products, pricing, inventory, carts, checkout, and orders.
+
+**Engineering signal**<br />
+`LangGraph` · `Medusa` · `FastAPI` · `Typesense` · `transactional boundaries`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 · [WorkoutPal](https://github.com/Litju/WorkoutPal-Public)
+
+**Science-driven training software**
+
+Agent orchestration, structured training-domain models, PostgreSQL persistence, and deterministic Python scientific processors in one product system.
+
+**Engineering signal**<br />
+`agents + numerical computing` · `domain modeling` · `auth/tenancy` · `scientific contracts`
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · [SecScanMonitor](https://github.com/Litju/Sec-Scan-Monitor)
+
+**Evidence-first security platform for AI systems**
+
+Evidence → observation → claim → adjudication → finding → report. Agents can assist; they do not self-authorize authoritative findings.
+
+**Engineering signal**<br />
+`FastAPI` · `OPA` · `Temporal` · `evidence provenance` · `security boundaries`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 05 · [Loaded CMJ System Identification](https://github.com/Litju/loaded-cmj-system-identification)
+
+**Reproducible biomechanics research software**
+
+Mechanics-first system identification of a modeled loaded countermovement jump using MuJoCo, bilateral force-platform signals, and bar/LPT kinematics.
+
+**Engineering signal**<br />
+`MuJoCo` · `optimization` · `measurement models` · `validation` · `reproducibility`
+
+</td>
+<td width="50%" valign="top">
+
+### 06 · [SportsAgentsLab](https://github.com/Litju/SportsAgentsLab-Public)
+
+**Multi-agent sports-science platform**
+
+Measurement, research, monitoring, prescription, and practitioner workflows with deterministic scientific computation kept distinct from AI-assisted reasoning.
+
+**Engineering signal**<br />
+`multi-agent architecture` · `measurement` · `provenance` · `scientific authority`
+
+</td>
+</tr>
+</table>
+
+---
+
+## How I build
+
+```text
+problem
+  ↓
+domain model
+  ↓
+authority boundaries
+  ↓
+deterministic core
+  ↓
+typed interfaces + tools
+  ↓
+agent orchestration
+  ↓
+bounded actions
+  ↓
+canonical validation
+  ↓
+tests + evaluation + observability
+  ↓
+production
+```
+
+I do not treat an LLM as the architecture.
+
+The model can reason, plan, retrieve, and operate tools. The surrounding system still owns state, permissions, invariants, scientific computation, transactional truth, provenance, and failure behavior.
+
+---
+
+## Engineering signature
+
+| Area | What I optimize for |
+| --- | --- |
+| **Agent systems** | explicit state, typed tools, bounded authority, approvals, retrieval, evaluation |
+| **Scientific software** | measurand clarity, units, uncertainty, reproducibility, validation, provenance |
+| **Backend / platform** | contracts, persistence, auth, queues, APIs, idempotency, graceful degradation |
+| **Quality** | deterministic tests, local pre-push gates, CI/CD, clean-clone qualification, security checks |
+| **Product delivery** | usable interfaces, failure-aware UX, deployment, observability, operational handoff |
+
+---
+
+## Technical range
+
+**Languages**<br />
+`Python` `TypeScript / JavaScript` `SQL` `Java` `R` `Bash / PowerShell` `C#`
+
+**AI / ML**<br />
+`LangGraph` `LangChain` `RAG` `tool use` `evaluation` `PyTorch` `scikit-learn` `XGBoost`
+
+**Backend / Data**<br />
+`FastAPI` `PostgreSQL` `Neon` `Redis` `Typesense` `Medusa` `Kafka` `Airflow`
+
+**Product / Infra**<br />
+`Next.js` `React` `Electron` `Docker` `GitHub Actions` `Vercel` `AWS / GCP / Azure`
+
+**Scientific / Simulation**<br />
+`NumPy` `SciPy` `Statsmodels` `MuJoCo` `signal processing` `optimization` `measurement systems`
+
+---
+
+## Why the science shows up everywhere
+
+My background started in **strength & conditioning and performance analysis** before I moved into software, data, and AI.
+
+That background permanently changed how I engineer systems: a metric needs a definition, a model needs a scope, a result needs provenance, uncertainty should not be hidden, and a plausible output is not automatically a defensible one.
+
+That mindset now carries into agent systems, security, commerce, simulation, ML infrastructure, and production software.
+
+---
+
+## What I can own
+
+- **0 → 1 agentic products**
+- **AI / agent platform architecture**
+- **full-stack AI systems**
+- **scientific and ML software**
+- **backend / data / workflow infrastructure**
+- **reliability, evaluation, and production qualification**
+
+<p align="center">
+  <strong>If you're hiring for technically ambitious AI/software work, start with the six repositories above.</strong>
+  <br/>
+  <sub>The code, architecture, tests, and scientific boundaries are the evidence.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Litju/My-Curriculum-Vitae"><strong>Résumé</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Litju?tab=repositories"><strong>All repositories</strong></a>
+</p>

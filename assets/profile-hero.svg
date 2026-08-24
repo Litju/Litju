@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Julio Rodriguez — AI Engineer</title>
+  <desc id="desc">Animated scientific instrument-style profile header in obsidian, mineral teal, glacial blue, and tungsten.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090D12"/>
+      <stop offset="58%" stop-color="#111820"/>
+      <stop offset="100%" stop-color="#18222C"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3B8E87"/>
+      <stop offset="58%" stop-color="#72B7D4"/>
+      <stop offset="100%" stop-color="#D9A66C"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#72B7D4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#72B7D4" stop-opacity=".15"/>
+      <stop offset="100%" stop-color="#72B7D4" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#A9B4C2" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="url(#bg)" stroke="#29333E" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="url(#grid)"/>
+
+  <circle cx="1064" cy="72" r="72" fill="#3B8E87" opacity=".055"/>
+  <circle cx="1112" cy="111" r="42" fill="#72B7D4" opacity=".075"/>
+  <circle cx="1024" cy="118" r="18" fill="#D9A66C" opacity=".12"/>
+
+  <text x="64" y="78" fill="#8E9AA7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2.2">
+    SYSTEMS / SCIENCE / SOFTWARE
+  </text>
+
+  <text x="62" y="139" fill="#EEF3F6" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="48" font-weight="750" letter-spacing="-1.4">
+    JULIO RODRIGUEZ
+  </text>
+  <text x="64" y="178" fill="#B8C2CC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19" font-weight="500" letter-spacing=".4">
+    AI ENGINEER · AGENTIC SYSTEMS · SCIENTIFIC SOFTWARE
+  </text>
+  <text x="64" y="212" fill="#7E8B98" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15">
+    useful agency · deterministic authority · measurable quality
+  </text>
+
+  <path d="M64 282
+           C125 282 142 282 178 282
+           C205 282 210 248 232 248
+           C256 248 262 303 286 303
+           C312 303 314 265 337 265
+           C361 265 365 284 391 284
+           C424 284 443 284 474 284
+           C502 284 510 229 538 229
+           C565 229 572 302 600 302
+           C628 302 634 254 662 254
+           C689 254 697 282 727 282
+           C758 282 780 282 806 282
+           C834 282 841 239 868 239
+           C898 239 905 305 934 305
+           C964 305 973 260 1003 260
+           C1034 260 1039 282 1072 282
+           L1136 282"
+        fill="none" stroke="url(#signal)" stroke-width="2.2" stroke-linecap="round"/>
+
+  <g fill="#090D12" stroke-width="2.5">
+    <circle cx="232" cy="248" r="6" stroke="#3B8E87">
+      <animate attributeName="r" values="5;8;5" dur="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values=".75;1;.75" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="337" cy="265" r="6" stroke="#72B7D4"/>
+    <circle cx="538" cy="229" r="6" stroke="#3B8E87"/>
+    <circle cx="662" cy="254" r="6" stroke="#72B7D4">
+      <animate attributeName="r" values="5;8;5" dur="5.4s" begin=".8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="868" cy="239" r="6" stroke="#72B7D4"/>
+    <circle cx="1003" cy="260" r="6" stroke="#D9A66C">
+      <animate attributeName="r" values="5;8;5" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#788694" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing=".7">
+    <text x="202" y="329">AGENTS</text>
+    <text x="315" y="329">PRODUCT</text>
+    <text x="510" y="329">SCIENCE</text>
+    <text x="633" y="329">SECURITY</text>
+    <text x="841" y="329">SIMULATION</text>
+    <text x="978" y="329">COMMERCE</text>
+  </g>
+
+  <rect x="-160" y="0" width="140" height="360" fill="url(#scan)" transform="skewX(-12)">
+    <animate attributeName="x" from="-180" to="1380" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <g fill="#55616D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">
+    <text x="1063" y="330">ARG / UTC−03</text>
+  </g>
+</svg>
