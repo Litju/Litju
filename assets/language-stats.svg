@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="634" viewBox="0 0 960 634" role="img" aria-labelledby="title desc">
+<title id="title">Public portfolio language analytics</title>
+<desc id="desc">Ranked by GitHub Linguist bytes with repository coverage. Not a proficiency measure.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;font-variant-numeric:tabular-nums}</style>
+<rect x="1" y="1" width="958" height="632" rx="18" fill="#111820" stroke="#29333E"/>
+<text x="28" y="34" font-size="14" fill="#72B7D4" text-anchor="start">PUBLIC PORTFOLIO  /  LANGUAGE ANALYTICS</text>
+<text x="28" y="64" font-size="19" fill="#EEF3F6" text-anchor="start">19 public projects  ·  18 detected languages</text>
+<rect x="28" y="82" width="904" height="13" rx="6" fill="#354451"/>
+<rect x="28.000" y="82" width="608.064" height="13" fill="#72B7D4"/>
+<rect x="636.064" y="82" width="164.721" height="13" fill="#57C0B2"/>
+<rect x="800.785" y="82" width="106.500" height="13" fill="#D9A66C"/>
+<rect x="907.285" y="82" width="6.645" height="13" fill="#A7A1E8"/>
+<rect x="913.929" y="82" width="5.850" height="13" fill="#8FB9A4"/>
+<rect x="919.779" y="82" width="3.511" height="13" fill="#E5A7A0"/>
+<rect x="923.290" y="82" width="2.855" height="13" fill="#93A4B9"/>
+<rect x="926.145" y="82" width="2.545" height="13" fill="#D8C582"/>
+<rect x="928.690" y="82" width="2.200" height="13" fill="#91C7DB"/>
+<rect x="930.890" y="82" width="0.246" height="13" fill="#B5A3CC"/>
+<text x="28" y="126" font-size="11" fill="#8E9AA7" text-anchor="start">LANGUAGE</text>
+<text x="250" y="126" font-size="11" fill="#8E9AA7" text-anchor="start">SHARE OF DETECTED BYTES</text>
+<text x="932" y="126" font-size="11" fill="#8E9AA7" text-anchor="end">REPOSITORIES</text>
+<circle cx="34" cy="147" r="5" fill="#72B7D4"/>
+<text x="48" y="151" font-size="14" fill="#EEF3F6" text-anchor="start">Python</text>
+<rect x="250" y="139" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="139" width="336.319" height="9" rx="4" fill="#72B7D4"/>
+<text x="815" y="151" font-size="14" fill="#EEF3F6" text-anchor="end">67.3%</text>
+<text x="932" y="151" font-size="14" fill="#C7D3DE" text-anchor="end">17 / 19</text>
+<circle cx="34" cy="190" r="5" fill="#57C0B2"/>
+<text x="48" y="194" font-size="14" fill="#EEF3F6" text-anchor="start">TypeScript</text>
+<rect x="250" y="182" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="182" width="91.107" height="9" rx="4" fill="#57C0B2"/>
+<text x="815" y="194" font-size="14" fill="#EEF3F6" text-anchor="end">18.2%</text>
+<text x="932" y="194" font-size="14" fill="#C7D3DE" text-anchor="end">10 / 19</text>
+<circle cx="34" cy="233" r="5" fill="#D9A66C"/>
+<text x="48" y="237" font-size="14" fill="#EEF3F6" text-anchor="start">C#</text>
+<rect x="250" y="225" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="225" width="58.905" height="9" rx="4" fill="#D9A66C"/>
+<text x="815" y="237" font-size="14" fill="#EEF3F6" text-anchor="end">11.8%</text>
+<text x="932" y="237" font-size="14" fill="#C7D3DE" text-anchor="end">1 / 19</text>
+<circle cx="34" cy="276" r="5" fill="#A7A1E8"/>
+<text x="48" y="280" font-size="14" fill="#EEF3F6" text-anchor="start">CSS</text>
+<rect x="250" y="268" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="268" width="3.675" height="9" rx="4" fill="#A7A1E8"/>
+<text x="815" y="280" font-size="14" fill="#EEF3F6" text-anchor="end">0.7%</text>
+<text x="932" y="280" font-size="14" fill="#C7D3DE" text-anchor="end">11 / 19</text>
+<circle cx="34" cy="319" r="5" fill="#8FB9A4"/>
+<text x="48" y="323" font-size="14" fill="#EEF3F6" text-anchor="start">JavaScript</text>
+<rect x="250" y="311" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="311" width="3.235" height="9" rx="4" fill="#8FB9A4"/>
+<text x="815" y="323" font-size="14" fill="#EEF3F6" text-anchor="end">0.6%</text>
+<text x="932" y="323" font-size="14" fill="#C7D3DE" text-anchor="end">9 / 19</text>
+<circle cx="34" cy="362" r="5" fill="#E5A7A0"/>
+<text x="48" y="366" font-size="14" fill="#EEF3F6" text-anchor="start">Rust</text>
+<rect x="250" y="354" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="354" width="1.942" height="9" rx="4" fill="#E5A7A0"/>
+<text x="815" y="366" font-size="14" fill="#EEF3F6" text-anchor="end">0.4%</text>
+<text x="932" y="366" font-size="14" fill="#C7D3DE" text-anchor="end">1 / 19</text>
+<circle cx="34" cy="405" r="5" fill="#93A4B9"/>
+<text x="48" y="409" font-size="14" fill="#EEF3F6" text-anchor="start">Jupyter Notebook</text>
+<rect x="250" y="397" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="397" width="1.579" height="9" rx="4" fill="#93A4B9"/>
+<text x="815" y="409" font-size="14" fill="#EEF3F6" text-anchor="end">0.3%</text>
+<text x="932" y="409" font-size="14" fill="#C7D3DE" text-anchor="end">3 / 19</text>
+<circle cx="34" cy="448" r="5" fill="#D8C582"/>
+<text x="48" y="452" font-size="14" fill="#EEF3F6" text-anchor="start">PowerShell</text>
+<rect x="250" y="440" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="440" width="1.408" height="9" rx="4" fill="#D8C582"/>
+<text x="815" y="452" font-size="14" fill="#EEF3F6" text-anchor="end">0.3%</text>
+<text x="932" y="452" font-size="14" fill="#C7D3DE" text-anchor="end">5 / 19</text>
+<circle cx="34" cy="491" r="5" fill="#91C7DB"/>
+<text x="48" y="495" font-size="14" fill="#EEF3F6" text-anchor="start">PLpgSQL</text>
+<rect x="250" y="483" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="483" width="1.217" height="9" rx="4" fill="#91C7DB"/>
+<text x="815" y="495" font-size="14" fill="#EEF3F6" text-anchor="end">0.2%</text>
+<text x="932" y="495" font-size="14" fill="#C7D3DE" text-anchor="end">2 / 19</text>
+<circle cx="34" cy="534" r="5" fill="#B5A3CC"/>
+<text x="48" y="538" font-size="14" fill="#EEF3F6" text-anchor="start">Wolfram Language</text>
+<rect x="250" y="526" width="500" height="9" rx="4" fill="#29333E"/>
+<rect x="250" y="526" width="0.136" height="9" rx="4" fill="#B5A3CC"/>
+<text x="815" y="538" font-size="14" fill="#EEF3F6" text-anchor="end">0.0%</text>
+<text x="932" y="538" font-size="14" fill="#C7D3DE" text-anchor="end">1 / 19</text>
+<text x="28" y="588" font-size="13" fill="#C7D3DE" text-anchor="start">Other detected languages: 0.1%</text>
+<text x="28" y="615" font-size="12" fill="#8E9AA7" text-anchor="start">Source: GitHub Linguist · selected public repositories · excludes forks and archived projects</text>
+</svg>

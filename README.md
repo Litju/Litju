@@ -67,7 +67,7 @@ I treat models as components of software systems, not substitutes for architectu
 ## Language analytics
 
 <!-- portfolio-language-stats:start -->
-Language breakdown will appear here after the first successful public-portfolio analytics run.
+![Public portfolio language analytics](assets/language-stats.svg)
 <!-- portfolio-language-stats:end -->
 
 The analytics describe selected public portfolio repositories, not lines personally authored or a measure of proficiency.
