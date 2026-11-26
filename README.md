@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Julio Rodriguez — AI and Software Engineer | Agentic Systems, Evaluation and Scientific ML" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="Julio Rodriguez — AI and Software Engineer. ASCII computational systems artwork: signal processing, biomechanics, machine learning, LLM evaluation and software engineering." width="100%" />
 </p>
 
 **AI & Software Engineer** working across agentic systems, LLM evaluation and benchmarking, scientific machine learning, and full-stack product engineering.
